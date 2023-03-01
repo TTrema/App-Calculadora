@@ -1,0 +1,1 @@
+﻿Uma Calculadora feita em python usando Kivy para aparelhos moveis
